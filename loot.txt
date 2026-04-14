@@ -1,1 +1,1 @@
-/etc/hostname
+/home/quentin/h1-safe-secret.txt
